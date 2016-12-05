@@ -19,7 +19,6 @@
     
     nameLabel.text = self.item.name;
     descriptionLabel.text = self.item.description;
-    [descriptionLabel sizeToFit];
     typeLabel.text = self.item.type;
 }
 

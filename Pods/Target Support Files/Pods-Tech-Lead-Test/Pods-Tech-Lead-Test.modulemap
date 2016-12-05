@@ -1,0 +1,6 @@
+framework module Pods_Tech_Lead_Test {
+  umbrella header "Pods-Tech-Lead-Test-umbrella.h"
+
+  export *
+  module * { export * }
+}

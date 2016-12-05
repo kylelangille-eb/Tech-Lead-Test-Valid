@@ -1,15 +1,13 @@
 //
-//  ViewController.h
+//  AuthViewController.h
 //  Tech-Lead-Test
 //
-//  Created by Kyle on 2016-11-30.
+//  Created by Kyle on 2016-12-02.
 //  Copyright © 2016 Eventbase. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface AuthViewController : UIViewController
 
 @end
-
